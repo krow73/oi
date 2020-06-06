@@ -1,24 +1,24 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/krow73/oi/master/guide.xml"
 #EXTINF:0 type="stream" channelId="-1", Globo
-http://online.goldpremium.xyz/t.vonline45/l.ive/8865
+http://online.goldpremium.xyz/t.vonline5/l.ive/8865
 #EXTINF:0 type="stream" channelId="-1", Band
-http://online.goldpremium.xyz/t.vonline45/l.ive/8741
+http://online.goldpremium.xyz/t.vonline5/l.ive/8741
 #EXTINF:0 type="stream" channelId="-1", TV Gazeta
-http://online.goldpremium.xyz/t.vonline45/l.ive/9017
+http://online.goldpremium.xyz/t.vonline5/l.ive/9017
 #EXTINF:0 type="stream" channelId="-1", Canal Viva
-http://online.goldpremium.xyz/t.vonline45/l.ive/9026
+http://online.goldpremium.xyz/t.vonline5/l.ive/9026
 #EXTINF:0 type="stream" channelId="-1", OFF
-http://online.goldpremium.xyz/t.vonline45/l.ive/8934
+http://online.goldpremium.xyz/t.vonline5/l.ive/8934
 #EXTINF:0 type="stream" channelId="-1", E!
-http://online.goldpremium.xyz/t.vonline45/l.ive/8803
+http://online.goldpremium.xyz/t.vonline5/l.ive/8803
 #EXTINF:0 type="stream" channelId="-1", Curta!
-http://online.goldpremium.xyz/t.vonline45/l.ive/8777
+http://online.goldpremium.xyz/t.vonline5/l.ive/8777
 #EXTINF:0 type="stream" channelId="-1", GNT
-http://online.goldpremium.xyz/t.vonline45/l.ive/8884
+http://online.goldpremium.xyz/t.vonline5/l.ive/8884
 #EXTINF:0 type="stream" channelId="-1", Comedy Central
-http://online.goldpremium.xyz/t.vonline45/l.ive/8770
+http://online.goldpremium.xyz/t.vonline5/l.ive/8770
 #EXTINF:0 type="stream" channelId="-1", MTV
-http://online.goldpremium.xyz/t.vonline45/l.ive/8917
+http://online.goldpremium.xyz/t.vonline5/l.ive/8917
 #EXTINF:0 type="stream" channelId="-1", BIS
 http://online.goldpremium.xyz/t.vonline45/l.ive/8755
 #EXTINF:0 type="stream" channelId="-1", VH1 Mega Hits
