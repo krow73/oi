@@ -6,7 +6,7 @@ http://online.goldpremium.xyz/t.vonline5/l.ive/8741
 #EXTINF:0 type="stream" channelId="-1", TV Gazeta
 http://online.goldpremium.xyz/t.vonline5/l.ive/9017
 #EXTINF:0 type="stream" channelId="-1", Canal Viva
-http://online.goldpremium.xyz/t.vonline5/l.ive/9026
+http://proxyts2.ec.cx:8083/hls1/viva.m3u8
 #EXTINF:0 type="stream" channelId="-1", OFF
 http://online.goldpremium.xyz/t.vonline5/l.ive/8934
 #EXTINF:0 type="stream" channelId="-1", E!
