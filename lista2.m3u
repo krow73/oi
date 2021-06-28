@@ -1,176 +1,220 @@
 #EXTM3U
-#EXTINF:0 tvg-logo="https://vignette.wikia.nocookie.net/rede-globo-logopedia-2/images/e/e8/Canal_Viva_logo.png", Viva
-http://ts.ec.cx:1080/a/hls1/viva.m3u8
-#EXTINF:0 tvg-logo="https://logodownload.org/wp-content/uploads/2017/03/multishow-logo-2.png", Multishow
-http://ts.ec.cx:1080/a/hls1/multishow.m3u8
-#EXTINF:0 tvg-logo="https://logodownload.org/wp-content/uploads/2017/08/canal-off-logo.png", Off
-http://ts.ec.cx:1080/a/hls1/off.m3u8
-#EXTINF:0 tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/canal-bis-logo-1.png", BIS
-http://ts.ec.cx:1080/a/hls1/bis.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/LOGO_MTV_BRASIL.png/1280px-LOGO_MTV_BRASIL.png", MTV
-http://ts.ec.cx:1080/a/hls1/mtv.m3u8
-#EXTINF:00 tvg-logo="https://s2.glbimg.com/WU9Y9RjCV9P_Gh3f7AWNNPjhjTU=/0x0:916x515/540x304/smart/filters:max_age(3600)/https://s2.glbimg.com/rTpay0Sz1pe1GNsimehYFKLCH_0=/0x0:661x346/984x0/smart/filters:strip_icc()/g.glbimg.com/og/gs/gsat5/f/thumbs/materia/2018/05/10/GNT_logo-roxo.png", GNT
-http://ts.ec.cx:1080/a/hls1/gnt.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Mais_Globosat_logo_2016.svg/2000px-Mais_Globosat_logo_2016.svg.png", Mais Globosat
-http://ts.ec.cx:1080/a/hls1/maisbobosat.m3u8
-#EXTINF:0 tvg-logo="https://ontvaudiencia.files.wordpress.com/2009/11/discovery_logo.png", Discovery Channel
-http://ts.ec.cx:1080/a/hls1/discovery.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/1280px-Discovery_Turbo_logo.svg.png", Discovery Turbo
-http://ts.ec.cx:1080/a/hls1/discoveryturbo.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/Investiga%C3%A7%C3%A3o_Discovery.png", ID
-https://rcstream.belugacdn.link/a/hls1/investigacaodiscovery.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/1280px-2015_Discovery_theater_HD_logo.svg.png", Discovery Theater HD
-http://ts.ec.cx:1080/a/hls1/discoverytheater.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a8/LOGO_DISCOVERY_SCIENCE.png", Discovery Science
-http://ts.ec.cx:1080/a/hls1/discoverysience.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/1280px-World_Discovery_HD_logo.svg.png", Discovery World HD
-http://ts.ec.cx:1080/a/hls1/discoveryworld.m3u8
-#EXTINF:0 tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/discovery-home-and-health-logo.png", Discovery Home & Health
-http://ts.ec.cx:1080/a/hls1/discoveryhomeihealth.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Logo_TLC_HD.svg/1200px-Logo_TLC_HD.svg.png", TLC
-http://ts.ec.cx:8080/a/hls1/tlc.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Food_Network_-_Logo_2016.png/475px-Food_Network_-_Logo_2016.png", Food Network
-http://ts.ec.cx:8080/a/hls1/foodnetwork.m3u8
-#EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-afg4AA1ihZs/WacphiEZsKI/AAAAAAAA-Nk/tH6tqCqmT3A-i8e7mn6EtQBIZ0FTYqBrgCLcBGAs/s1600/curta.png", Curta!
-http://ts.ec.cx:8080/a/hls1/curta.m3u8
-#EXTINF:0 tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/arte1.png", Arte 1
-http://ts.ec.cx:8080/a/hls1/arte1.m3u8
-#EXTINF:0 tvg-logo="file:///storage/emulated/0/Download/CC_Logo_LockUp_Horizontal_TM__SummerAle_Black-01.png", Comedy Central
-http://ts.ec.cx:8080/a/hls1/comedycentral.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1200px-2018_Animal_Planet_logo.svg.png", Animal Planet 
-http://ts.ec.cx:8080/a/hls1/animalplanet.m3u8
-#EXTINF:0 tvg-logo="https://logodownload.org/wp-content/uploads/2018/03/history-channel-logo.png", The History Channel
-http://ts.ec.cx:8080/a/hls1/history.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/History2Logo2019.png", History 2 HD
-http://ts.ec.cx:8080/a/hls1/history2.m3u8
-#EXTINF:0 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/national-geographic-logo.png", National Geographic 
-http://ts.ec.cx:8080/a/hls1/natgeo.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/1280px-National_Geographic_Wild_logo.svg.png", Natgeo Wild 
-http://ts.ec.cx:8080/a/hls1/natgeowild.m3u8
-#EXTINF:0 tvg-logo="https://imagensbrasil.org/images/2020/02/14/LOGO-FOXPREMIUM_BRASIL1.png", Fox Premium 1 HD
-http://ts.ec.cx:8080/a/hls1/foxpremium1.m3u8
-#EXTINF:0 tvg-logo="https://i1.wp.com/associacaoneo.com.br/wp-content/uploads/2014/11/LOGO-FOXPREMIUM_BRASIL2.png?fit=1920%2C1080&ssl=1", Fox Premium 2 HD
-http://ts.ec.cx:8080/a/hls1/foxpremium2.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Fox_Channel_logo.svg/1280px-Fox_Channel_logo.svg.png", Fox 
-http://ts.ec.cx:8080/a/hls1/fox.m3u8
-#EXTINF:0 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/82/FOXlife3DLA.png/revision/latest?cb=20180617213057", Fox Life
-http://ts.ec.cx:8080/a/hls1/foxlife.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/1200px-FX_International_logo.svg.png", FX
-http://ts.ec.cx:8080/a/hls1/fx.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/1200px-TNT_Logo_2016.svg.png", TNT 
-http://ts.ec.cx:8080/a/hls1/tnt.m3u8
-#EXTINF:0 tvg-logo="https://i0.wp.com/seriesemcena.com.br/wp-content/uploads/2020/04/tntseries_Turner-1280x720.png", TNT SÉRIES HD
-http://ts.ec.cx:8080/a/hls1/tntseries.m3u8
-#EXTINF:0 tvg-logo="https://logodownload.org/wp-content/uploads/2018/11/canal-space-logo.png", Space 
-http://ts.ec.cx:8080/a/hls1/space.m3u8
-#EXTINF:0 tvg-logo="https://download.logo.wine/logo/Cinemax/Cinemax-Logo.wine.png", Cinemax 
-http://ts.ec.cx:8080/a/hls1/cinemax.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png", Warner
-http://ts.ec.cx:8080/a/hls1/warner.m3u8
-#EXTINF:0 tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2020/02/lifetime-logo.png", Lifetime
-http://ts.ec.cx:8080/a/hls1/lifetime.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Megapix_logo_2011.png", Megapix
-http://ts.ec.cx:8080/a/hls1/megapix.m3u8
-#EXTINF:0 tvg-logo="https://vignette.wikia.nocookie.net/rede-globo-logopedia-2/images/e/ef/TC_Premium.png/revision/latest?cb=20190227220828", Telecine Premium
-http://ts.ec.cx:8080/a/hls1/telecinepremium.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/Telecine_Pipoca.png", Telecine Pipoca
-http://ts.ec.cx:8080/a/hls1/telecinepipoca.m3u8
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/7c/c5/e5/7cc5e51ae54e674bbdae964ca6e5dcd6.png", Telecine Cult
-http://ts.ec.cx:8080/a/hls1/telecinecult.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Telecine_Action_2.png", Telecine Action
-http://ts.ec.cx:8080/a/hls1/telecineaction.m3u8
-#EXTINF:0 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/4d/TC_Fun.png/revision/latest/scale-to-width-down/340?cb=20160228233323", Telecine Fun
-http://ts.ec.cx:8080/a/hls1/telecinefun.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b6/Telecine_Touch_3.png", Telecine Touch
-http://ts.ec.cx:8080/a/hls1/telecinetouch.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/1200px-Universal_TV_logo.svg.png", Universal TV
-http://ts.ec.cx:8080/a/hls1/universal.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Logo_Studio_Universal.svg/1200px-Logo_Studio_Universal.svg.png", Studio Universal
-http://ts.ec.cx:8080/a/hls1/studiouniversal.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/HBO_logo.svg", HBO
-http://ts.ec.cx:8080/a/hls1/hbo.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png", HBO 2
-http://ts.ec.cx:8080/a/hls1/hbo2.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png", HBO Family
-http://ts.ec.cx:8080/a/hls1/hbofamily.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png", HBO Plus HD
-http://ts.ec.cx:8080/a/hls1/hboplus.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/1200px-HBO_Signature.svg.png", HBO Signature
-http://ts.ec.cx:8080/a/hls1/hbosignature.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Max_Prime_2012_logo.svg/1280px-Max_Prime_2012_logo.svg.png", HBO Xtreme
-http://ts.ec.cx:8080/a/hls1/hboxtreme.m3u8
-#EXTINF:0 tvg-logo="https://cdn.mitvstatic.com/channels/br_max-up-1_m.png", HBO POP
-http://ts.ec.cx:8080/a/hls1/hbopop.m3u8
-#EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-9SgIbyE-WH8/Ux98igqHkKI/AAAAAAAAhpw/SRANZWWWhwE/s1600/Max_logo.png", HBO Mundi
-http://ts.ec.cx:8080/a/hls1/hbomundi.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Canal_Sony_HD_logo.svg/1200px-Canal_Sony_HD_logo.svg.png", Sony
-http://ts.ec.cx:8080/a/hls1/sony.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/AMC2019.png", AMC HD
-http://ts.ec.cx:8080/a/hls1/amc.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/1200px-A%26E_Network_logo.svg.png", A&E
-http://ts.ec.cx:8080/a/hls1/a&e.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/ParamountNetwork.png", Paramount Network
-http://ts.ec.cx:8080/a/hls1/paramount.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/TBS_logo_2016.svg/1024px-TBS_logo_2016.svg.png", TBS
-http://ts.ec.cx:8080/a/hls1/tbs.m3u8
-#EXTINF:0 tvg-logo="http://logok.org/wp-content/uploads/2014/05/E-Logo_Black-1024x768.png", E!
-http://ts.ec.cx:8080/a/hls1/canale.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/2014_Disney_Channel_logo.svg", Disney Channel HD
-http://ts.ec.cx:8080/a/hls1/foxlife.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Nickelodeon_Logo.svg/1200px-Nickelodeon_Logo.svg.png", Nickelodeon
-http://ts.ec.cx:8080/a/hls1/nick.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a1/Nick_Jr._logo_2009.svg", Nick Jr.
-http://ts.ec.cx:8080/a/hls1/nickjr.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1280px-Cartoon_Network_2010_logo.svg.png", Cartoon Network
-http://ts.ec.cx:8080/a/hls1/cartoon.m3u8
-#EXTINF:0 tvg-logo="https://logodownload.org/wp-content/uploads/2018/05/gloob-logo.png", Gloob
-http://ts.ec.cx:8080/a/hls1/gloob.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Boomerang_tv_logo.png/758px-Boomerang_tv_logo.png", Boomerang
-http://ts.ec.cx:8080/a/hls1/boomerang.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Logo_Disney_XD.png/640px-Logo_Disney_XD.png", Disney XD
-http://ts.ec.cx:8080/a/hls1/disneyxd.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/CanalDisneyJuniorLA.png", Disney JR
-http://ts.ec.cx:8080/a/hls1/disneyjunior.m3u8
-#EXTINF:0 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/discovery-kids-logo.png", Discovery Kids
-http://ts.ec.cx:8080/a/hls1/discoverykids.m3u8
-#EXTINF:0 tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/canal-brasil-logo-2.png", Canal Brasil
-http://ts.ec.cx:8080/a/hls1/canalbrasil.m3u8
-#EXTINF:0 tvg-logo="https://logodownload.org/wp-content/uploads/2018/07/canal-axn-logo.png", AXN
-http://ts.ec.cx:8080/a/hls1/axn.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Natgeo_Kids_logo.svg/1280px-Natgeo_Kids_logo.svg.png", NatGeo Kids HD
-http://ts.ec.cx:8080/a/hls1/natgeokids.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Syfy.svg/1280px-Syfy.svg.png", Syfy
-http://ts.ec.cx:8080/a/hls1/syfy.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tooncast_logo.svg/1200px-Tooncast_logo.svg.png", Tooncast
-http://ts.ec.cx:8080/a/hls1/tooncast.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/1200px-HGTV_US_Logo_2015.svg.png", HGTV
-http://ts.ec.cx:8080/a/hls1/hgtv.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dc/Vh1-HD-Brasil-VetorLogo.svg", VH1 HD 
-http://ts.ec.cx:8080/a/hls1/vh1hd.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/Logo_Woohoo.png", Woohoo
-http://ts.ec.cx:8080/a/hls1/woohoo.m3u8
-#EXTINF:0 tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/globo-news-logo-2.png", Globo News HD
-http://ts.ec.cx:8080/a/hls1/globonews.m3u8
-#EXTINF:0 tvg-logo="https://cdn.mitvstatic.com/channels/br_sportv3-hd_m.png", Sportv 3
-http://ts.ec.cx:8080/a/hls1/sportv3.m3u8
-#EXTINF:0 tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/sportv2.png", Sportv 2
-http://ts.ec.cx:8080/a/hls1/sportv2.m3u8
-#EXTINF:0 tvg-logo="https://www.bestswim.com.br/wp-content/uploads/2018/06/93b93c34bd95b28979fa77a2c983.png", Sportv HD
-http://ts.ec.cx:8080/a/hls1/sportv.m3u8
-#EXTINF:0 tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/redetv-logo.png", RedeTV! 20 Anos
-http://ts.ec.cx:8080/a/hls1/redetv.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/4/41/Logotipo_do_SBT.svg/600px-Logotipo_do_SBT.svg.png", SBT
-http://ts.ec.cx:8080/a/hls1/sbt.m3u8
-#EXTINF:0 tvg-logo="https://logodownload.org/wp-content/uploads/2018/10/fox-sports-logo.png", FOX Sports
-http://ts.ec.cx:8080/a/hls1/foxsports.m3u8
-#EXTINF:0 tvg-logo="https://lh3.googleusercontent.com/proxy/v8Anb1oXp1zqxhwJE_Qj8k-Q3KfWqAGv7AEMLrPI82_DN7Gxh2ZunGXRsfplibLN54lobYJrgYewMr0NYSDmaM9G4QqcIEekTge-OnSdQCoSK4VvTpG85FCkAxD2", FOX Sports 2
-http://ts.ec.cx:8080/a/hls1/foxsports2.m3u8
-#EXTINF:0 tvg-logo="https://i.shgcdn.com/24064bb1-08aa-4117-b52f-6ce6fa572028/-/format/auto/-/preview/3000x3000/-/quality/lighter/", ESPN 2 HD
-http://ts.ec.cx:8080/a/hls1/espn2.m3u8
-#EXTINF:0 tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-logo-4.png", ESPN HD
-http://ts.ec.cx:8080/a/hls1/espn.m3u8
-#EXTINF:0 tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/bandsports-logo.png", Band Sports
-http://ts.ec.cx:8080/a/hls1/bandsports.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png, TCM
-http://ts.ec.cx:8080/a/hls1/tcm.m3u8
 
+#EXTINF:0 tvg-logo="https://e7.pngegg.com/pngimages/89/407/png-clipart-logo-brand-vehicle-license-plates-product-design-iptv-blue-text.png", Telecine Action
+http://forceie.com/180299/180299/1254
+#EXTINF:0 tvg-logo="https://e7.pngegg.com/pngimages/89/407/png-clipart-logo-brand-vehicle-license-plates-product-design-iptv-blue-text.png", TBS
+http://forceie.com/180299/180299/1252
+#EXTINF:0 tvg-logo="https://e7.pngegg.com/pngimages/89/407/png-clipart-logo-brand-vehicle-license-plates-product-design-iptv-blue-text.png", TCM
+http://forceie.com/180299/180299/1253
+#EXTINF:0 tvg-logo="https://e7.pngegg.com/pngimages/89/407/png-clipart-logo-brand-vehicle-license-plates-product-design-iptv-blue-text.png", Telecine Cult
+http://forceie.com/180299/180299/1257
+#EXTINF:0 tvg-logo="https://e7.pngegg.com/pngimages/89/407/png-clipart-logo-brand-vehicle-license-plates-product-design-iptv-blue-text.png", Telecine Fun
+http://forceie.com/180299/180299/1259
+#EXTINF:0 tvg-logo="https://e7.pngegg.com/pngimages/89/407/png-clipart-logo-brand-vehicle-license-plates-product-design-iptv-blue-text.png", Telecine Pipoca
+http://forceie.com/180299/180299/1262
+#EXTINF:0 tvg-logo="https://e7.pngegg.com/pngimages/89/407/png-clipart-logo-brand-vehicle-license-plates-product-design-iptv-blue-text.png", Telecine Premium
+http://forceie.com/180299/180299/1266
+#EXTINF:0 tvg-logo="https://e7.pngegg.com/pngimages/89/407/png-clipart-logo-brand-vehicle-license-plates-product-design-iptv-blue-text.png", Telecine Touch
+http://forceie.com/180299/180299/1268
+#EXTINF:0 tvg-logo="https://e7.pngegg.com/pngimages/89/407/png-clipart-logo-brand-vehicle-license-plates-product-design-iptv-blue-text.png", TNT Series
+http://forceie.com/180299/180299/1276
+#EXTINF:0 tvg-logo="https://e7.pngegg.com/pngimages/89/407/png-clipart-logo-brand-vehicle-license-plates-product-design-iptv-blue-text.png", Tooncast
+http://forceie.com/180299/180299/1359
+#EXTINF:0 tvg-logo="https://e7.pngegg.com/pngimages/89/407/png-clipart-logo-brand-vehicle-license-plates-product-design-iptv-blue-text.png", SYFY
+http://forceie.com/180299/180299/1250
+#EXTINF:0 tvg-logo="https://e7.pngegg.com/pngimages/89/407/png-clipart-logo-brand-vehicle-license-plates-product-design-iptv-blue-text.png", Studio Universal
+http://forceie.com/180299/180299/1248
+#EXTINF:0 tvg-logo="https://e7.pngegg.com/pngimages/89/407/png-clipart-logo-brand-vehicle-license-plates-product-design-iptv-blue-text.png", SporTV
+http://forceie.com/180299/180299/1245
+#EXTINF:0 tvg-logo="https://e7.pngegg.com/pngimages/89/407/png-clipart-logo-brand-vehicle-license-plates-product-design-iptv-blue-text.png", SporTV 3
+http://forceie.com/180299/180299/1242
+#EXTINF:0 tvg-logo="https://e7.pngegg.com/pngimages/89/407/png-clipart-logo-brand-vehicle-license-plates-product-design-iptv-blue-text.png", SporTV 2
+http://forceie.com/180299/180299/1239
+#EXTINF:0 tvg-logo="https://e7.pngegg.com/pngimages/89/407/png-clipart-logo-brand-vehicle-license-plates-product-design-iptv-blue-text.png", HBO
+http://forceie.com/180299/180299/1317
+#EXTINF:0 tvg-logo="https://e7.pngegg.com/pngimages/89/407/png-clipart-logo-brand-vehicle-license-plates-product-design-iptv-blue-text.png", HBO 2
+http://forceie.com/180299/180299/1387
+#EXTINF:0 tvg-logo="https://e7.pngegg.com/pngimages/89/407/png-clipart-logo-brand-vehicle-license-plates-product-design-iptv-blue-text.png", HBO Family
+http://forceie.com/180299/180299/1392
+#EXTINF:0 tvg-logo="https://e7.pngegg.com/pngimages/89/407/png-clipart-logo-brand-vehicle-license-plates-product-design-iptv-blue-text.png", HBO Signature
+http://forceie.com/180299/180299/1071
+#EXTINF:0 tvg-logo="https://e7.pngegg.com/pngimages/89/407/png-clipart-logo-brand-vehicle-license-plates-product-design-iptv-blue-text.png", HBO Xtreme
+http://forceie.com/180299/180299/33209
+#EXTINF:0 tvg-logo="https://e7.pngegg.com/pngimages/89/407/png-clipart-logo-brand-vehicle-license-plates-product-design-iptv-blue-text.png", HBO Mundi
+http://forceie.com/180299/180299/33213
+#EXTINF:0 tvg-logo="https://e7.pngegg.com/pngimages/89/407/png-clipart-logo-brand-vehicle-license-plates-product-design-iptv-blue-text.png", HBO POP
+http://forceie.com/180299/180299/33220
+#EXTINF:0 tvg-logo="https://e7.pngegg.com/pngimages/89/407/png-clipart-logo-brand-vehicle-license-plates-product-design-iptv-blue-text.png", HBO Plus
+http://forceie.com/180299/180299/33226
+#EXTINF:0 tvg-logo="https://e7.pngegg.com/pngimages/89/407/png-clipart-logo-brand-vehicle-license-plates-product-design-iptv-blue-text.png", A&E
+http://forceie.com/180299/180299/1343
+#EXTINF:0 tvg-logo="https://e7.pngegg.com/pngimages/89/407/png-clipart-logo-brand-vehicle-license-plates-product-design-iptv-blue-text.png", AMC
+http://forceie.com/180299/180299/811
+#EXTINF:0 tvg-logo="https://e7.pngegg.com/pngimages/89/407/png-clipart-logo-brand-vehicle-license-plates-product-design-iptv-blue-text.png", AXN
+http://forceie.com/180299/180299/1396
+#EXTINF:0 tvg-logo="https://e7.pngegg.com/pngimages/89/407/png-clipart-logo-brand-vehicle-license-plates-product-design-iptv-blue-text.png", Canal Brasil
+http://forceie.com/180299/180299/853
+#EXTINF:0 tvg-logo="https://e7.pngegg.com/pngimages/89/407/png-clipart-logo-brand-vehicle-license-plates-product-design-iptv-blue-text.png", Sony Channel
+http://forceie.com/180299/180299/1379
+#EXTINF:0 tvg-logo="https://e7.pngegg.com/pngimages/89/407/png-clipart-logo-brand-vehicle-license-plates-product-design-iptv-blue-text.png", Cinemax
+http://forceie.com/180299/180299/863
+#EXTINF:0 tvg-logo="https://e7.pngegg.com/pngimages/89/407/png-clipart-logo-brand-vehicle-license-plates-product-design-iptv-blue-text.png", Film & arts
+http://forceie.com/180299/180299/956
+#EXTINF:0 tvg-logo="https://e7.pngegg.com/pngimages/89/407/png-clipart-logo-brand-vehicle-license-plates-product-design-iptv-blue-text.png", Star Channel
+http://forceie.com/180299/180299/404
+#EXTINF:0 tvg-logo="https://e7.pngegg.com/pngimages/89/407/png-clipart-logo-brand-vehicle-license-plates-product-design-iptv-blue-text.png", Star Hits 
+http://forceie.com/180299/180299/968
+#EXTINF:0 tvg-logo="https://e7.pngegg.com/pngimages/89/407/png-clipart-logo-brand-vehicle-license-plates-product-design-iptv-blue-text.png", Star Hits 2
+http://forceie.com/180299/180299/970
+#EXTINF:0 tvg-logo="https://e7.pngegg.com/pngimages/89/407/png-clipart-logo-brand-vehicle-license-plates-product-design-iptv-blue-text.png", FX
+http://forceie.com/180299/180299/407
+#EXTINF:0 tvg-logo="https://e7.pngegg.com/pngimages/89/407/png-clipart-logo-brand-vehicle-license-plates-product-design-iptv-blue-text.png", Megapix
+http://forceie.com/180299/180299/1385
+#EXTINF:0 tvg-logo="https://e7.pngegg.com/pngimages/89/407/png-clipart-logo-brand-vehicle-license-plates-product-design-iptv-blue-text.png", Paramount Channel
+http://forceie.com/180299/180299/1380
+#EXTINF:0 tvg-logo="https://e7.pngegg.com/pngimages/89/407/png-clipart-logo-brand-vehicle-license-plates-product-design-iptv-blue-text.png", Space
+http://forceie.com/180299/180299/1236
+#EXTINF:0 tvg-logo="https://e7.pngegg.com/pngimages/89/407/png-clipart-logo-brand-vehicle-license-plates-product-design-iptv-blue-text.png", TLC
+http://forceie.com/180299/180299/346
+#EXTINF:0 tvg-logo="https://e7.pngegg.com/pngimages/89/407/png-clipart-logo-brand-vehicle-license-plates-product-design-iptv-blue-text.png", TNT Series
+http://forceie.com/180299/180299/1276
+#EXTINF:0 tvg-logo="https://e7.pngegg.com/pngimages/89/407/png-clipart-logo-brand-vehicle-license-plates-product-design-iptv-blue-text.png", Universal TV
+http://forceie.com/180299/180299/1294
+#EXTINF:0 tvg-logo="https://e7.pngegg.com/pngimages/89/407/png-clipart-logo-brand-vehicle-license-plates-product-design-iptv-blue-text.png", Warner Channel
+http://forceie.com/180299/180299/1376
+#EXTINF:0 tvg-logo="https://e7.pngegg.com/pngimages/89/407/png-clipart-logo-brand-vehicle-license-plates-product-design-iptv-blue-text.png", Band Sports
+http://forceie.com/180299/180299/1397
+#EXTINF:0 tvg-logo="https://e7.pngegg.com/pngimages/89/407/png-clipart-logo-brand-vehicle-license-plates-product-design-iptv-blue-text.png", Combate
+http://forceie.com/180299/180299/872
+#EXTINF:0 tvg-logo="https://e7.pngegg.com/pngimages/89/407/png-clipart-logo-brand-vehicle-license-plates-product-design-iptv-blue-text.png", Espn Brasil
+http://forceie.com/180299/180299/312
+#EXTINF:0 tvg-logo="https://e7.pngegg.com/pngimages/89/407/png-clipart-logo-brand-vehicle-license-plates-product-design-iptv-blue-text.png", Espn 2
+http://forceie.com/180299/180299/944
+#EXTINF:0 tvg-logo="https://e7.pngegg.com/pngimages/89/407/png-clipart-logo-brand-vehicle-license-plates-product-design-iptv-blue-text.png", Espn Extra
+http://forceie.com/180299/180299/314
+#EXTINF:0 tvg-logo="https://e7.pngegg.com/pngimages/89/407/png-clipart-logo-brand-vehicle-license-plates-product-design-iptv-blue-text.png", Espn
+http://forceie.com/180299/180299/953
+#EXTINF:0 tvg-logo="https://e7.pngegg.com/pngimages/89/407/png-clipart-logo-brand-vehicle-license-plates-product-design-iptv-blue-text.png", Fox Sports 2
+http://forceie.com/180299/180299/1408
+#EXTINF:0 tvg-logo="https://e7.pngegg.com/pngimages/89/407/png-clipart-logo-brand-vehicle-license-plates-product-design-iptv-blue-text.png", Fox Sports
+http://forceie.com/180299/180299/1407
+#EXTINF:0 tvg-logo="https://e7.pngegg.com/pngimages/89/407/png-clipart-logo-brand-vehicle-license-plates-product-design-iptv-blue-text.png", TNT Sports
+http://forceie.com/180299/180299/1274
+#EXTINF:0 tvg-logo="https://e7.pngegg.com/pngimages/89/407/png-clipart-logo-brand-vehicle-license-plates-product-design-iptv-blue-text.png", Premiere Clubes
+http://forceie.com/180299/180299/1143
+#EXTINF:0 tvg-logo="https://e7.pngegg.com/pngimages/89/407/png-clipart-logo-brand-vehicle-license-plates-product-design-iptv-blue-text.png", Premiere 2
+http://forceie.com/180299/180299/1126
+#EXTINF:0 tvg-logo="https://e7.pngegg.com/pngimages/89/407/png-clipart-logo-brand-vehicle-license-plates-product-design-iptv-blue-text.png", Premiere 3
+http://forceie.com/180299/180299/1413
+#EXTINF:0 tvg-logo="https://e7.pngegg.com/pngimages/89/407/png-clipart-logo-brand-vehicle-license-plates-product-design-iptv-blue-text.png", Premiere 4
+http://forceie.com/180299/180299/1132
+#EXTINF:0 tvg-logo="https://e7.pngegg.com/pngimages/89/407/png-clipart-logo-brand-vehicle-license-plates-product-design-iptv-blue-text.png", Premiere 5
+http://forceie.com/180299/180299/1135
+#EXTINF:0 tvg-logo="https://e7.pngegg.com/pngimages/89/407/png-clipart-logo-brand-vehicle-license-plates-product-design-iptv-blue-text.png", Premiere 6
+http://forceie.com/180299/180299/1138
+#EXTINF:0 tvg-logo="https://e7.pngegg.com/pngimages/89/407/png-clipart-logo-brand-vehicle-license-plates-product-design-iptv-blue-text.png", Premiere 7
+http://forceie.com/180299/180299/1140
+#EXTINF:0 tvg-logo="https://e7.pngegg.com/pngimages/89/407/png-clipart-logo-brand-vehicle-license-plates-product-design-iptv-blue-text.png", Campeonato Catarinense
+http://forceie.com/180299/180299/53902
+#EXTINF:0 tvg-logo="https://e7.pngegg.com/pngimages/89/407/png-clipart-logo-brand-vehicle-license-plates-product-design-iptv-blue-text.png", Copa do Nordeste
+http://forceie.com/180299/180299/53910
+#EXTINF:0 tvg-logo="https://e7.pngegg.com/pngimages/89/407/png-clipart-logo-brand-vehicle-license-plates-product-design-iptv-blue-text.png", Estádio TNT
+http://forceie.com/180299/180299/54074
+#EXTINF:0 tvg-logo="https://e7.pngegg.com/pngimages/89/407/png-clipart-logo-brand-vehicle-license-plates-product-design-iptv-blue-text.png", Campeonato Paraibano
+http://forceie.com/180299/180299/54280
+#EXTINF:0 tvg-logo="https://e7.pngegg.com/pngimages/89/407/png-clipart-logo-brand-vehicle-license-plates-product-design-iptv-blue-text.png", Dazn
+http://forceie.com/180299/180299/585
+#EXTINF:0 tvg-logo="https://e7.pngegg.com/pngimages/89/407/png-clipart-logo-brand-vehicle-license-plates-product-design-iptv-blue-text.png", Dazn 2
+http://forceie.com/180299/180299/54077
+#EXTINF:0 tvg-logo="https://e7.pngegg.com/pngimages/89/407/png-clipart-logo-brand-vehicle-license-plates-product-design-iptv-blue-text.png", BIS
+http://forceie.com/180299/180299/848
+#EXTINF:0 tvg-logo="https://e7.pngegg.com/pngimages/89/407/png-clipart-logo-brand-vehicle-license-plates-product-design-iptv-blue-text.png", Canal Off
+http://forceie.com/180299/180299/1117
+#EXTINF:0 tvg-logo="https://e7.pngegg.com/pngimages/89/407/png-clipart-logo-brand-vehicle-license-plates-product-design-iptv-blue-text.png", Comedy Central
+http://forceie.com/180299/180299/1401
+#EXTINF:0 tvg-logo="https://e7.pngegg.com/pngimages/89/407/png-clipart-logo-brand-vehicle-license-plates-product-design-iptv-blue-text.png", HGTV
+http://forceie.com/180299/180299/895
+#EXTINF:0 tvg-logo="https://e7.pngegg.com/pngimages/89/407/png-clipart-logo-brand-vehicle-license-plates-product-design-iptv-blue-text.png", E!
+http://forceie.com/180299/180299/927
+#EXTINF:0 tvg-logo="https://e7.pngegg.com/pngimages/89/407/png-clipart-logo-brand-vehicle-license-plates-product-design-iptv-blue-text.png", Food NetWork
+http://forceie.com/180299/180299/393
+#EXTINF:0 tvg-logo="https://e7.pngegg.com/pngimages/89/407/png-clipart-logo-brand-vehicle-license-plates-product-design-iptv-blue-text.png", GNT
+http://forceie.com/180299/180299/1062
+#EXTINF:0 tvg-logo="https://e7.pngegg.com/pngimages/89/407/png-clipart-logo-brand-vehicle-license-plates-product-design-iptv-blue-text.png", Lifetime
+http://forceie.com/180299/180299/1083
+#EXTINF:0 tvg-logo="https://e7.pngegg.com/pngimages/89/407/png-clipart-logo-brand-vehicle-license-plates-product-design-iptv-blue-text.png", Mais Globosat
+http://forceie.com/180299/180299/1086
+#EXTINF:0 tvg-logo="https://e7.pngegg.com/pngimages/89/407/png-clipart-logo-brand-vehicle-license-plates-product-design-iptv-blue-text.png", Multishow
+http://forceie.com/180299/180299/1104
+#EXTINF:0 tvg-logo="https://e7.pngegg.com/pngimages/89/407/png-clipart-logo-brand-vehicle-license-plates-product-design-iptv-blue-text.png", VIVA
+http://forceie.com/180299/180299/1299
+#EXTINF:0 tvg-logo="https://e7.pngegg.com/pngimages/89/407/png-clipart-logo-brand-vehicle-license-plates-product-design-iptv-blue-text.png", Woohoo
+http://forceie.com/180299/180299/1351
+#EXTINF:0 tvg-logo="https://e7.pngegg.com/pngimages/89/407/png-clipart-logo-brand-vehicle-license-plates-product-design-iptv-blue-text.png", Animal Planet
+http://forceie.com/180299/180299/1395
+#EXTINF:0 tvg-logo="https://e7.pngegg.com/pngimages/89/407/png-clipart-logo-brand-vehicle-license-plates-product-design-iptv-blue-text.png", Discovery Channel
+http://forceie.com/180299/180299/893
+#EXTINF:0 tvg-logo="https://e7.pngegg.com/pngimages/89/407/png-clipart-logo-brand-vehicle-license-plates-product-design-iptv-blue-text.png", Discovery H&H
+http://forceie.com/180299/180299/899
+#EXTINF:0 tvg-logo="https://e7.pngegg.com/pngimages/89/407/png-clipart-logo-brand-vehicle-license-plates-product-design-iptv-blue-text.png", Discovery Science
+http://forceie.com/180299/180299/903
+#EXTINF:0 tvg-logo="https://e7.pngegg.com/pngimages/89/407/png-clipart-logo-brand-vehicle-license-plates-product-design-iptv-blue-text.png", Discovery Theater
+http://forceie.com/180299/180299/905
+#EXTINF:0 tvg-logo="https://e7.pngegg.com/pngimages/89/407/png-clipart-logo-brand-vehicle-license-plates-product-design-iptv-blue-text.png", Discovery Turbo
+http://forceie.com/180299/180299/1403
+#EXTINF:0 tvg-logo="https://e7.pngegg.com/pngimages/89/407/png-clipart-logo-brand-vehicle-license-plates-product-design-iptv-blue-text.png", Discovery World
+http://forceie.com/180299/180299/909
+#EXTINF:0 tvg-logo="https://e7.pngegg.com/pngimages/89/407/png-clipart-logo-brand-vehicle-license-plates-product-design-iptv-blue-text.png", Fish Tv
+http://forceie.com/180299/180299/384
+#EXTINF:0 tvg-logo="https://e7.pngegg.com/pngimages/89/407/png-clipart-logo-brand-vehicle-license-plates-product-design-iptv-blue-text.png", History 2
+http://forceie.com/180299/180299/1391
+#EXTINF:0 tvg-logo="https://e7.pngegg.com/pngimages/89/407/png-clipart-logo-brand-vehicle-license-plates-product-design-iptv-blue-text.png", History 
+http://forceie.com/180299/180299/1386
+#EXTINF:0 tvg-logo="https://e7.pngegg.com/pngimages/89/407/png-clipart-logo-brand-vehicle-license-plates-product-design-iptv-blue-text.png", ID
+http://forceie.com/180299/180299/1345
+#EXTINF:0 tvg-logo="https://e7.pngegg.com/pngimages/89/407/png-clipart-logo-brand-vehicle-license-plates-product-design-iptv-blue-text.png", NatGeo Wild
+http://forceie.com/180299/180299/1382
+#EXTINF:0 tvg-logo="https://e7.pngegg.com/pngimages/89/407/png-clipart-logo-brand-vehicle-license-plates-product-design-iptv-blue-text.png", National Geographic
+http://forceie.com/180299/180299/1383
+#EXTINF:0 tvg-logo="https://e7.pngegg.com/pngimages/89/407/png-clipart-logo-brand-vehicle-license-plates-product-design-iptv-blue-text.png", Baby Tv
+http://forceie.com/180299/180299/818
+#EXTINF:0 tvg-logo="https://e7.pngegg.com/pngimages/89/407/png-clipart-logo-brand-vehicle-license-plates-product-design-iptv-blue-text.png", Boomerang
+http://forceie.com/180299/180299/1399
+#EXTINF:0 tvg-logo="https://e7.pngegg.com/pngimages/89/407/png-clipart-logo-brand-vehicle-license-plates-product-design-iptv-blue-text.png", Cartoon Network
+http://forceie.com/180299/180299/1400
+#EXTINF:0 tvg-logo="https://e7.pngegg.com/pngimages/89/407/png-clipart-logo-brand-vehicle-license-plates-product-design-iptv-blue-text.png", Discovery Kids
+http://forceie.com/180299/180299/1402
+#EXTINF:0 tvg-logo="https://e7.pngegg.com/pngimages/89/407/png-clipart-logo-brand-vehicle-license-plates-product-design-iptv-blue-text.png", Disney Channel
+http://forceie.com/180299/180299/911
+#EXTINF:0 tvg-logo="https://e7.pngegg.com/pngimages/89/407/png-clipart-logo-brand-vehicle-license-plates-product-design-iptv-blue-text.png", Disney Junior
+http://forceie.com/180299/180299/914
+#EXTINF:0 tvg-logo="https://e7.pngegg.com/pngimages/89/407/png-clipart-logo-brand-vehicle-license-plates-product-design-iptv-blue-text.png", Disney XD
+http://forceie.com/180299/180299/918
+#EXTINF:0 tvg-logo="https://e7.pngegg.com/pngimages/89/407/png-clipart-logo-brand-vehicle-license-plates-product-design-iptv-blue-text.png", Gloob
+http://forceie.com/180299/180299/354
+#EXTINF:0 tvg-logo="https://e7.pngegg.com/pngimages/89/407/png-clipart-logo-brand-vehicle-license-plates-product-design-iptv-blue-text.png", Gloobinho
+http://forceie.com/180299/180299/1058
+#EXTINF:0 tvg-logo="https://e7.pngegg.com/pngimages/89/407/png-clipart-logo-brand-vehicle-license-plates-product-design-iptv-blue-text.png", Nick Junior
+http://forceie.com/180299/180299/1112
+#EXTINF:0 tvg-logo="https://e7.pngegg.com/pngimages/89/407/png-clipart-logo-brand-vehicle-license-plates-product-design-iptv-blue-text.png", Nickelodeon
+http://forceie.com/180299/180299/1114
+#EXTINF:0 tvg-logo="https://e7.pngegg.com/pngimages/89/407/png-clipart-logo-brand-vehicle-license-plates-product-design-iptv-blue-text.png", TV-RÁ-TIM-BUM
+http://forceie.com/180299/180299/1353
+#EXTINF:0 tvg-logo="https://e7.pngegg.com/pngimages/89/407/png-clipart-logo-brand-vehicle-license-plates-product-design-iptv-blue-text.png", ZooMoo
+http://forceie.com/180299/180299/387
+#EXTINF:0 tvg-logo="https://e7.pngegg.com/pngimages/89/407/png-clipart-logo-brand-vehicle-license-plates-product-design-iptv-blue-text.png", Gospel Cartoon
+http://forceie.com/180299/180299/30463
+#EXTINF:0 tvg-logo="https://e7.pngegg.com/pngimages/89/407/png-clipart-logo-brand-vehicle-license-plates-product-design-iptv-blue-text.png", Band
+http://forceie.com/180299/180299/306
+#EXTINF:0 tvg-logo="https://e7.pngegg.com/pngimages/89/407/png-clipart-logo-brand-vehicle-license-plates-product-design-iptv-blue-text.png", Rede TV
+http://forceie.com/180299/180299/1158
+#EXTINF:0 tvg-logo="https://e7.pngegg.com/pngimages/89/407/png-clipart-logo-brand-vehicle-license-plates-product-design-iptv-blue-text.png", SBT
+http://forceie.com/180299/180299/1366
+#EXTINF:0 tvg-logo="https://e7.pngegg.com/pngimages/89/407/png-clipart-logo-brand-vehicle-license-plates-product-design-iptv-blue-text.png", Tv Gazeta
+http://forceie.com/180299/180299/349
+#EXTINF:0 tvg-logo="https://e7.pngegg.com/pngimages/89/407/png-clipart-logo-brand-vehicle-license-plates-product-design-iptv-blue-text.png", Globo Nordeste
+http://forceie.com/180299/180299/125
+#EXTINF:0 tvg-logo="https://e7.pngegg.com/pngimages/89/407/png-clipart-logo-brand-vehicle-license-plates-product-design-iptv-blue-text.png", Globo Rio
+http://forceie.com/180299/180299/1019
+#EXTINF:0 tvg-logo="https://e7.pngegg.com/pngimages/89/407/png-clipart-logo-brand-vehicle-license-plates-product-design-iptv-blue-text.png", Globo SP
+http://forceie.com/180299/180299/1026
