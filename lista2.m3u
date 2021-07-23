@@ -1,5 +1,4 @@
 #EXTM3U
-
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTycDC4-Il7Pr_dS-qE9ztX2rEeU-M1uIG7Q&usqp=CAU", Telecine Action
 http://forceie.com/180299/180299/341
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwh3TcVvyVISlwM6hvwVbWgFem6THIUPC7Zg&usqp=CAU", TBS
@@ -184,7 +183,9 @@ http://forceie.com/180299/180299/148
 http://forceie.com/180299/180299/307
 #EXTINF:0 tvg-logo="https://e7.pngegg.com/pngimages/89/407/png-clipart-logo-brand-vehicle-license-plates-product-design-iptv-blue-text.png", Cartoon Network
 http://forceie.com/180299/180299/369
-#EXTINF:0 tvg-logo="https://e7.pngegg.com/pngimages/89/407/png-clipart-logo-brand-vehicle-license-plates-product-design-iptv-blue-text.png", Discovery Kids
+#EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4b/Discovery_kids_hd_logo.png/revision/latest?cb=20140318145557", Discovery Kids HD
+http://xcui.vitvabc.xyz:8880/2879940036a1/2879940036a1/16692
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Discovery_kids_logo.png", Discovery Kids
 http://forceie.com/180299/180299/309
 #EXTINF:0 tvg-logo="https://e7.pngegg.com/pngimages/89/407/png-clipart-logo-brand-vehicle-license-plates-product-design-iptv-blue-text.png", Disney Channel
 http://forceie.com/180299/180299/911
