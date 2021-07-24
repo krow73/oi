@@ -45,7 +45,9 @@ http://forceie.com/180299/180299/33213
 http://forceie.com/180299/180299/33220
 #EXTINF:0 tvg-logo="https://e7.pngegg.com/pngimages/89/407/png-clipart-logo-brand-vehicle-license-plates-product-design-iptv-blue-text.png", HBO Plus
 http://forceie.com/180299/180299/33226
-#EXTINF:0 tvg-logo="https://e7.pngegg.com/pngimages/89/407/png-clipart-logo-brand-vehicle-license-plates-product-design-iptv-blue-text.png", A&E
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/A%26E_HD.png", A&E HD
+http://xcui.vitvabc.xyz:8880/2879940036a1/2879940036a1/16691
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/1024px-A%26E_Network_logo.svg.png", A&E
 http://forceie.com/180299/180299/1343
 #EXTINF:0 tvg-logo="https://e7.pngegg.com/pngimages/89/407/png-clipart-logo-brand-vehicle-license-plates-product-design-iptv-blue-text.png", AMC HD
 http://xcui.vitvabc.xyz:8880/2879940036a1/2879940036a1/16692
@@ -83,7 +85,9 @@ http://forceie.com/180299/180299/346
 http://forceie.com/180299/180299/347
 #EXTINF:0 tvg-logo="https://e7.pngegg.com/pngimages/89/407/png-clipart-logo-brand-vehicle-license-plates-product-design-iptv-blue-text.png", Universal TV
 http://forceie.com/180299/180299/1294
-#EXTINF:0 tvg-logo="https://e7.pngegg.com/pngimages/89/407/png-clipart-logo-brand-vehicle-license-plates-product-design-iptv-blue-text.png", Warner Channel
+#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/79/42/27/7942275bccc3ba8a635b9d88d34efdd1.png", Warner Channel HD
+http://xcui.vitvabc.xyz:8880/2879940036a1/2879940036a1/16765
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Warner_Bros_logo.svg/982px-Warner_Bros_logo.svg.png", Warner Channel
 http://forceie.com/180299/180299/353
 #EXTINF:0 tvg-logo="https://e7.pngegg.com/pngimages/89/407/png-clipart-logo-brand-vehicle-license-plates-product-design-iptv-blue-text.png", Band Sports
 http://forceie.com/180299/180299/1397
@@ -149,7 +153,9 @@ http://forceie.com/180299/180299/55
 http://forceie.com/180299/180299/1086
 #EXTINF:0 tvg-logo="https://e7.pngegg.com/pngimages/89/407/png-clipart-logo-brand-vehicle-license-plates-product-design-iptv-blue-text.png", Multishow
 http://forceie.com/180299/180299/58
-#EXTINF:0 tvg-logo="https://e7.pngegg.com/pngimages/89/407/png-clipart-logo-brand-vehicle-license-plates-product-design-iptv-blue-text.png", VIVA
+#EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/rede-globo-logopedia-2/images/e/ef/Canal_viva_logo_.png/revision/latest?cb=20190227170808", VIVA HD
+http://xcui.vitvabc.xyz:8880/2879940036a1/2879940036a1/16764
+#EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/rede-globo-logopedia-2/images/e/ef/Canal_viva_logo_.png/revision/latest?cb=20190227170808", VIVA
 http://forceie.com/180299/180299/289
 #EXTINF:0 tvg-logo="https://e7.pngegg.com/pngimages/89/407/png-clipart-logo-brand-vehicle-license-plates-product-design-iptv-blue-text.png", Woohoo
 http://forceie.com/180299/180299/295
